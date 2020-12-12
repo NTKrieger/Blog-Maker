@@ -1,0 +1,23 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "React Native App",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "create-react-native-app": "^3.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Krieger",
+  "license": "ISC"
+}
